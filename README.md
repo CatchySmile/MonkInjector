@@ -23,10 +23,6 @@ Monk Injector is a simple Windows application for injecting DLL's into other pro
 
 - Or run the release 
 
-## Usage Example
-
-[Add an example here if necessary]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request.
