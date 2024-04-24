@@ -12,7 +12,7 @@ Monk Injector is a simple Windows application for injecting DLL's into other pro
 
 1. Launch the Monk Injector application.
 2. Select the DLL you want to inject by clicking on the "Select DLL" button.
-3. Choose whether to inject the DLL into a process or a window by selecting the appropriate radio button.
+3. Choose whether to inject the DLL into a process or a window by selecting the appropriate button.
 4. Select the target process or window from the dropdown menu.
 5. Click on the "Inject DLL" button to inject the selected DLL into the chosen target.
 
@@ -20,6 +20,8 @@ Monk Injector is a simple Windows application for injecting DLL's into other pro
 
 - Windows operating system
 - Visual Studio or any other compatible C++ compiler for building the application
+
+- Or run the release 
 
 ## Usage Example
 
