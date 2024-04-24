@@ -1,10 +1,10 @@
 # Monk Injector
 
-Monk Injector is a simple Windows application for injecting dynamic link libraries (DLLs) into other processes. This can be particularly useful for various purposes such as hooking system functions or modifying the behavior of other applications.
+Monk Injector is a simple Windows application for injecting DLL's into other processes.
 
 ## Features
 
-- **DLL Injection:** Inject dynamic link libraries (DLLs) into other processes.
+- **DLL Injection:** Inject DLL's into other processes.
 - **Process and Window Selection:** Choose the target process or window to inject the DLL into.
 - **User-Friendly Interface:** Simple and easy-to-use graphical user interface (GUI).
 
