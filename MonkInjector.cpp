@@ -1,4 +1,4 @@
-﻿#include <Windows.h>
+#include <Windows.h>
 #include <iostream>
 #include <string>
 #include <vector>
@@ -258,7 +258,7 @@ int main()
     wc.lpfnWndProc = WindowProc;
     wc.hInstance = GetModuleHandle(NULL);
     wc.lpszClassName = CLASS_NAME;
-    wc.hbrBackground = CreateSolidBrush(RGB(50, 50, 50));
+    wc.hbrBackground = CreateSolidBrush(RGB(150, 111, 51)); 
     wc.hIcon = (HICON)LoadImage(NULL, "icon.ico", IMAGE_ICON, 0, 0, LR_LOADFROMFILE);
 
     RegisterClass(&wc);
