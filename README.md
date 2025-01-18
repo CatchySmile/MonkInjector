@@ -1,6 +1,7 @@
 # Monk Injector
 
 Monk Injector is a simple Windows application for injecting DLL's into other processes.
+No bypasses at all, doesnt work on vac games or any game with an anticheat. this project is practically useless.
 
 Preview 0.1.1 [here](https://i.ibb.co/DQffm2z/image.png)
 
